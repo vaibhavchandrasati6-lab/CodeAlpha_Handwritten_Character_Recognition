@@ -42,9 +42,6 @@ The model is built using a CNN:
 
 ---
 
-
----
-
 ## 🔄 Workflow
 
 1. Load MNIST dataset  
@@ -56,7 +53,6 @@ The model is built using a CNN:
 7. Predict digits
 
 ---
-
 
 ## 📈 Model Performance
 
