@@ -56,13 +56,12 @@ The model is built using a CNN:
 
 ## 📈 Model Performance
 
-- 🎯 Training Accuracy: **99%**
-- 🎯 Testing Accuracy: **98%**
+- 🎯 Training Accuracy: **99.30%**
+- 🎯 Testing Accuracy: **98.40%**
 
 The model shows strong generalization with minimal overfitting.
 
 ---
-
 
 ## 📌 Conclusion
 
